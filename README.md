@@ -1,4 +1,4 @@
-# Closed-and-Maximal-Frequent-Itemsets
+# Closed And Maximal Frequent Itemsets
 
 ## Introduction
 
